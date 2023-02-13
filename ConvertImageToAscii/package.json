@@ -1,0 +1,14 @@
+{
+  "name": "jimptest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "Duc Tran",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
+}

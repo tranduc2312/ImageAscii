@@ -1,0 +1,64 @@
++++++++++++++++++++++++++++++++++/////////////////////////:::::::::::/://://////
+++++++++++++++++++++++++++++++////////////////////://::::::::::::::::/:/:////:::
++++++mm+smydssmdyyyss++///////////////////////::::::::::::::::::::::::/:///:::::
+++ohod+++sosossossoos+++++////////////:::::::::::::::::::::::::::::::::///::::::
+///+/+++++++++++++++++++//////////////:::::::::::::::::::::::::::::::::/::::::::
+//osossysssshsoy+++++++/////////:-.```-::::::::::::::://::::::::::::::::::::::::
+//////++++++++++++++++++++++:.```        ``.:/+/:::::::::::::::::::::::::::-::::
++++++++++++++oooooooooooo+:````      `   `````/++++++++++++++++:::::::::::--::::
+sssssssssssssssssssssssso-.```     `.... ``    -++++++++++++++++/:::::::---:::::
++oooooooooooosssssssssss-````.......::++:.`    `-++syhhhshyo+++++/::::----::::::
+++++++ooooooooossssssss:``...:::::::+ssso+-`  `shsshhhhhhhyys++++:---------:::::
+sssssssssssss://+++++++.``.-:+/++///ssssso/:+hhyssyhyhhshsshhyo-----..-------:::
+yyyyyyyyyyyys/::/+++++/.`.:+o/:+syyys++++/:/hhhs/yyhhhs:yhhhyys-......-------:::
+yyyyyyyyyyysy//::+++++/.`-+sssyhhhdhhhyysssshhhddddddddddhhhy+........------::::
+yyyyyyyyyyysy///:+++++/-`:ssyyhhdddhhyssssssshhdddddddddddhy:.........-------:::
+yyyyyyyyyyysy+:/:+++++::./yhddddddhhddddhhyso:+yhddhyssssso+-.........-------:::
+yyyyyyyyyyysy+:/:+++++/:.:yhhdddhddhyhdhhhyso///.oo+sddddddho.........-------:::
+yyyyyyyyyyysy+:/:++++++::.shhdddhhhhhhdhhhss+o:`.+sydhsdddhdds........-------:::
+yyyyyyyyyyysy+:::++++++::. shddyossssshhhhs+`  `hmdhhdmmmmmddh:.......--------::
+yyyyyyyyyyyss+:::++++++/:.` +hdhs:-:/shhhso.`  `hmmmmmmmmmmddds.......-------:::
+syyyyyyyyyysso:::/+++++/:-.` -yhhdddhhhyss/..` ``hmmmmmmmmddmds.......-------:::
+ssssssssssssso:::/+++++/:-.```-shhddhhysshys-......hmmmmmmdmmdh+.......------:::
+ssssssssssssso:::/+++++/:-..`.:hddssyshdddhs+-......dmmmmmmmdddd-......-------::
+ssssssssssssso::::+++++/:-....:yddmmsdmmddhssss:-::odmmmmmmmmddm:......-------::
+ssssssssssssso::::++++:::--.``.ohdddddddddhyyyyyysyydmmmmmmmmdmmh......-------::
+ssssssssssssso---:/+s+`....`..-sddddddddddddhhhhyyyydmmmmmmmmmmdhy--..-------:::
+sssssssssssssshddddds::-....``/dddddddddddhhhhhhhyyhhdmmmmmmmmdddhs----------:::
+ssssssssssssddddddddddh+.....-sddddddddddddhhhhhhyyhydmmmmmmmdddddh+--------::::
+sssssssssshdddddmmmmmdy+-...:sddddddddddddddhhhhhhyhyhmmmmmmmddddhdh:.-----:::::
+sssssssssyddddddmmmmmdhs:--+hdddddddddddddddhhhhhhhhysdmmmmmmmdddddhs.----::::::
+ssssssssshdddddddddmmddsyshdddddddddddddddddddhhhhhhysdmmmmmmmddddddh------:/:::
+ssssssssddddddddddddddddddddddddddddddddddddddddhhhhyssmmmmmmmmdddddh/------::::
+sssssssyddddddddddhohdddddddddddddddddddddddddddddhhysshmmmmmmmdddddhs-------:::
+sssssshddddddddddhs+ydddmmmmmddddddddddddddddddddddhhyshdmmmmmmddddddh------::::
+ssssshddddddddddds/+hdddmmmmmmdddddddddddddddddddddhhyshmdmmmmmmddddd:------::::
+sssshdddmmmmddddh//+hddddddddddddddddddddddddddddddhhysshddddmmmdddh/-------::::
+ssshmmmmmmdmdddhs:/:ohhdddddddddddddddddddddddhhhhhhyyysss.:shdds:-::-------::::
+sssmmmmmmmmmmmmddds+/syhhhdhhhhhhhhhhhhhhhhhhhhhhhhyyyyyyo`.`````.-:-.------::::
+ssmmmmmmmmmmmmmmmmmmmmdddhhhhhhhhhhhhhhhhhhhhhhhhdhyyyyyy/..`````..```.------:::
+ssdmmmmmmmmmmmmmmmmmmmmmmmmmmmddddddddddddddddddddhhhhhyy:.```````-  `.------:::
+ssdmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdsssssyyysssssssyhy:``````.```.------:::
+sssdddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmddddhhhyyyhyyyhhyyyys/....----.`---::::::
+ssssssssydddddmmmmmmmmmmmmmmmmmmmmmmmyyhdddddddddddddddhyysyy+...:---.`--:::::::
+sssssssssooo+ooshddmddmmmmmmmmmmmmmmyooosyyyyhhhhhyssyhdhyhyhyo:::---..--:::::::
+sssssssooooo++/-:::::::oyhhhdddddddmhhdhhhhhhyssssssssyhdhhyhs+--:----.--:::::::
+ssssooooooo+++/--::::::ssssssyhhyyyhhyhhhhhhhhhhddysssssshhss:------::.-::::::::
+ssooooooo+++++/---::::ssssyyhhhyyyyyhhhhhhhhhhhhdhyyyyyyhhhys//////++/.-::::::::
+oooo++++++++++:---:::+ssyhhhhhhhhhhhhhhhhhhhhyhhhhsyyyyyhhh+////::////--::::::::
+///:::/+++++++:---::/sshdddddhdhhhhhhhhhhhhhyyhhhhyyyyyyhhhs://///////:.::::::::
+///:-.:++/////:.....sssdddddddddhhhhddddhhhhhhhhhhyyyysyyhyh+::::::::::..-:--:::
++/:-..:::::///:....osshddddddddddddddddddhhhhhhhhdyyhhyyhhyys--...----......----
+/:-.-:/--:/::::...+ssydddddddddddddddddddddddddhddyhhhhyhhyyh:---.-.--........--
+----/+/::-.::::..:ssshmdddddddddddddddddddddddddddhhhhhhhhyyhs---....-..........
+--./+++:-.......-sssyhmdddddddddddddddddddddddddddhddhdhhhyysh--................
+.:o+++/--.......ossyyhmddddddddddddddddddhddddddddhhdhddhhyyyh+-................
+:o++++:---.....:ssyyyhdddddddddddddddddddhddddddddyddhhdhhyyyhs-................
+++//::----....-sssyhhhddddddddddddddddddhhdddddddhyddhhdhhhyyyh+--..............
++++/:----....-+ssyyhhhhdddddddddhdddddddhhdhhhdddhyhhhhhhhhyyyho---.............
+/++:--:-....-:ssyyyhhhhdddddddddhdddddddhhhhhhdddhyhhhhhhhhyyyhs:---............
+//::---....--ossyyhhhhhdddddddddhddddddhhhhhhhdddhyhhhhhhhhyyyyy+----...........
+:::::-....--+ssyyhhhhhhhddddhddhhhhhddhhhhhhhdddhhyyhhhhhhhyyyyys:-----.........
+::::-...---/ssyyyhhhhhyyhddhhddhhhhhhhhhyhhhhhhhhhyyhhhhhhhysyyys+---...........
+::::...---:ssyyyhhhhhhyyhddhhhdhhyhhhhhhyhhhhhhhhhysyhhhhhhhyssys+--.---........
+:::..---::ssyyyhhhhhhhhhhdddhhdhhhhhhhhhyhhhhdhhhhyyyhhhhhhyyssys+-...---.......
